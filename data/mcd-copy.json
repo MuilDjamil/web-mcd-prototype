@@ -1,0 +1,94 @@
+{
+  "menu": [
+    {
+      "kategori": "promosi",
+      "nama": "Bantal Big Mac",
+      "harga": 42000,
+      "gambar": "bantal-big-mac.png"
+    },
+    {
+      "kategori": "promosi",
+      "nama": "Bantal Ice Cone",
+      "harga": 42000,
+      "gambar": "bantal-ice-cone.png"
+    },
+    {
+      "kategori": "promosi",
+      "nama": "Promo Agustusan Seru",
+      "harga": 49500,
+      "gambar": "promo-agustusan-seru.png"
+    },
+    {
+      "kategori": "promosi",
+      "nama": "Paket Hantaran MCD",
+      "harga": 125000,
+      "gambar": "paket-hantaran-mcd.png"
+    },
+    {
+      "kategori": "promosi",
+      "nama": "Fish Snack Wrap",
+      "harga": 15500,
+      "gambar": "fish-snack-wrap.png"
+    },
+    {
+      "kategori": "ala-carte",
+      "nama": "Paket Big Order",
+      "harga": 975000,
+      "gambar": "paket-big-order.png"
+    },
+    {
+      "kategori": "ala-carte",
+      "nama": "Mini Cuts Spicy Chicken",
+      "harga": 36000,
+      "gambar": "mini-cuts-spicy-chicken.png"
+    },
+    {
+      "kategori": "ala-carte",
+      "nama": "Burger Rendang",
+      "harga": 30000,
+      "gambar": "burger-rendang.png"
+    },
+    {
+      "kategori": "ala-carte",
+      "nama": "Burger Rendang Special",
+      "harga": 33000,
+      "gambar": "burger-rendang-special.png"
+    },
+    {
+      "kategori": "ala-carte",
+      "nama": "Burger Rendang Dobel",
+      "harga": 40500,
+      "gambar": "burger-rendang-dobel.png"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Soda Gembira",
+      "harga": 12000,
+      "gambar": "soda-gembira.png"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Krim Soda Gembira",
+      "harga": 15000,
+      "gambar": "krim-soda-gembira.png"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Es Kopi Kelapa",
+      "harga": 20000,
+      "gambar": "es-kopi-kelapa.png"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Es Kopi Kelapa Jelly",
+      "harga": 22000,
+      "gambar": "es-kopi-kelapa-jelly.png"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Es Kopi Kelapa Float",
+      "harga": 22500,
+      "gambar": "es-kopi-kelapa-float.png"
+    }
+  ]
+}
